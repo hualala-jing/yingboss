@@ -1,2 +1,7 @@
 Creating a new branch is quick and simple.
+<<<<<<< Updated upstream
 aaa ccc
+=======
+aaa
+bbb
+>>>>>>> Stashed changes
